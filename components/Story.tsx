@@ -1,5 +1,5 @@
-import { Head } from "$fresh/runtime.ts";
-import { marked } from "https://deno.land/x/marked/mod.ts";
+// import { marked } from "https://deno.land/x/marked/mod.ts";
+import { marked } from "https://deno.land/x/marked@1.0.2/mod.ts"
 
 
 const markdownContent = `
@@ -54,7 +54,6 @@ Alco is based in Doral according to their website's [Contact Us](https://www.alc
 const renderer = new marked.Renderer();
   renderer.link = (href, title, text) => {
     if (!href || !text) {
-      console.log("href", href, "text", text); //TODO remove
       return `<a class="text-blue-500 underline font-bold hover:text-blue-700">Invalid link</a>`;
     }
     return `<a href="${href}" title="${title || ''}" class="text-blue-500 underline font-bold hover:text-blue-700">${text}</a>`;
@@ -64,7 +63,6 @@ const renderer = new marked.Renderer();
 
 export default  function Story(){
   const htmlContent = marked(markdownContent, {renderer});
-  console.log(htmlContent); //TODO remove
   return <div class="text-lg space-y-6" dangerouslySetInnerHTML={{ __html: htmlContent }} />
 }  
  
