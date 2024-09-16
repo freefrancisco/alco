@@ -1,6 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
 import { marked } from "https://deno.land/x/marked/mod.ts";
-// import { marked } from "https://deno.land/x/marked@v4.0.12/mod.ts"; // Ensure this version is correct
 
 
 const markdownContent = `
@@ -63,7 +62,6 @@ export default  function Story(){
   const htmlContent = marked(markdownContent, {renderer});
   return <div class="text-lg space-y-6" dangerouslySetInnerHTML={{ __html: htmlContent }} />
 }  
-// Store your markdown content as a string
  
 
 
