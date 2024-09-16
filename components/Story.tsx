@@ -60,6 +60,7 @@ const renderer = new marked.Renderer();
 
 export default  function Story(){
   const htmlContent = marked(markdownContent, {renderer});
+  console.log(htmlContent); //TODO remove
   return <div class="text-lg space-y-6" dangerouslySetInnerHTML={{ __html: htmlContent }} />
 }  
  
