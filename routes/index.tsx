@@ -27,6 +27,7 @@ const HeadTag = () =>
     <meta property="twitter:image" content="https://cmsplatform.blob.core.windows.net/wwwalcoimpactcom/logos/b0152ee5-d59a-4626-a6c8-cf9cd2f82a05.png" />
     <meta http-equiv="Content-Security-Policy" content="default-src 'self' https://*; script-src 'none';"></meta>
     <link rel="canonical" href="https://www.alcoimpact.org/" />
+    <link rel="icon" href="/windows_alert.png" type="image/png"></link>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet" />
   </Head>
 

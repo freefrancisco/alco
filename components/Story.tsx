@@ -53,9 +53,7 @@ Alco is based in Doral according to their website's [Contact Us](https://www.alc
 // custom renderer for mardkown links
 const renderer = new marked.Renderer();
   renderer.link = (href, title, text) => {
-    console.log('HREF:', href);
-    console.log('TEXT:', text);
-    const url = href.href || href.raw || "#";
+    const url = href.href || href.raw || href || "#";
     const displayText = text || href.text || "Link";
     
     return `<a href="${url}" title="${title || ''}" class="text-blue-500 underline font-bold hover:text-blue-700">${displayText}</a>`;
