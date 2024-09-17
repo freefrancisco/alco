@@ -1,6 +1,11 @@
-// import { marked } from "https://deno.land/x/marked/mod.ts";
-import { marked } from "https://deno.land/x/marked@1.0.2/mod.ts"
+import { marked } from "https://deno.land/x/marked/mod.ts";
+// import { marked } from "https://deno.land/x/marked@1.0.2/mod.ts"
 
+const luisPicUrls = [
+  "https://scontent-mia3-1.xx.fbcdn.net/v/t39.30808-6/408221543_800292912111717_1723075362859589826_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MO4109HNtnAQ7kNvgE6nNQm&_nc_ht=scontent-mia3-1.xx&_nc_gid=AS2bfZGFQmKpGjukS-jF6UD&oh=00_AYBcxlisDjliHmnzzCEXyLR-ueiWu5cbGYtEO5TwW8jmoQ&oe=66EEA27B",
+  "https://media.licdn.com/dms/image/v2/D4D22AQEV2r4zV0s9NA/feedshare-shrink_800/feedshare-shrink_800/0/1701800543657?e=1729123200&v=beta&t=H78uLZZLG3BErTI-GbWMLRAxblVokjYJiSD23gis08Y)",
+
+]
 
 const markdownContent = `
 ## A Broken Trust with Alco Windows and Doors
@@ -37,12 +42,16 @@ However, the public image crafted by Alvarez sharply contrasts with my experienc
 In addition to my personal experience, it is important to highlight the public profiles and credentials of the individuals responsible for Alco Windows and Doors. 
 The founder and Managing Director, Luis Alvarez, has built a strong online presence, positioning himself as a successful business leader.
  He is active on multiple platforms, which appear to be part of an effort to shape public perception.
+ I find [this TikTok video where Luis Alvarez tells people not to fall for Window scams](https://www.tiktok.com/@alcoimpact/video/7292054998555381034) 
+ particularly ironic given the current situation. Here is a screenshot from that video: 
+ ![Luis Alvarez telling people in TikTok not to fall for Windows scams](AlcoScamTiktokScreenshot.png)
 
 - **Luis Alvarez, Founder and Managing Director**  
 [Power100 Business Profile](https://power100.io/luis-alvarez-ceo-lander/)  
 [Doral Chamber of Commerce Profile](https://www.doralchamber.org/luis-alvarez-alco-windows-and-doors-honored/)   
 [LinkedIn Profile](https://www.linkedin.com/in/luis-alvarez-0a7a7b57/)   
 [Twitter (X) Profile](https://x.com/la7483)   
+[TikTok Profile](https://www.tiktok.com/@alcoimpact)
 
 - **Alco Windows and Doors Contact Information**  
 [Alco Management Team](https://www.alcoimpact.com/our-team/)   
