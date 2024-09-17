@@ -40,7 +40,7 @@ export default function Home() {
   <div class="max-w-screen-md mx-auto px-4">
     <h1 class="text-center text-4xl font-bold">Beware of Alco Windows And Doors</h1>
     <h2 class="text-center text-2xl">Owned by Luis Alvarez</h2>
-    <h2 class="text-center">They sell hurricane impact windows in Miami area, took payment in full over a year ago, they have not delivered, and they have stopped responding. There are multiple complaints against them in the BBB. </h2>
+    {/* <h2 class="text-center">They sell hurricane impact windows in Miami area, took payment in full over a year ago, they have not delivered, and they have stopped responding. There are multiple complaints against them in the BBB. </h2> */}
   </div>
 </header>
 <main class="py-8 px-4">

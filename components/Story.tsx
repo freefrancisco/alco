@@ -3,111 +3,108 @@ import { marked } from "https://deno.land/x/marked@1.0.2/mod.ts"
 
 
 const markdownContent = `
-### Introduction
+## A Broken Trust with Alco Windows and Doors
 In August 2023, I signed a contract with Alco Windows and Doors to install impact windows, a requirement from my HOA for insurance purposes. 
-Initially, Alco communicated frequently and efficiently, but that changed once they received full payment. 
-They arranged financing through a third party, and while I’ve been paying interest on the loan, Alco received the money upfront and has yet to deliver.
+Initially, Alco communicated frequently and efficiently, leading me to trust them. 
+However, once they received full payment, the situation changed dramatically. 
+While I continued paying interest on the financing arranged through a third party, Alco received the money upfront and has yet to deliver. 
+This document details my experience and how it mirrors a disturbing pattern among other customers.
 
-### Lack of Progress and Communication
-Despite involving my HOA president and receiving a permit expiration warning from the city, Alco has made no progress. 
-The owner, Luis Alvarez, actively promotes his business online but hasn’t responded to my inquiries.
+## From Agreement to Payment: A Promising Start
+Like many other customers, I was lured by Alco’s professional reputation and positive reviews. 
+Their communication was impeccable up until the point they received full payment. 
+The financing arrangement meant I was immediately responsible for payments, despite the fact that no work had been done. 
+Alco received their money in full, leaving me in a precarious financial position while 
+I awaited the installation of my windows—an installation that still has not occurred.
 
-### Questioning Positive Reviews
-I chose Alco based on their numerous positive reviews, but my experience has made me question their accuracy.
- My HOA lawyers reviewed the contract, and I trusted their advice, but the year-long delay has left me paying for undelivered services, right as hurricane season begins.
+## The Breakdown: No Progress, No Communication
+Despite numerous follow-ups, there has been no meaningful progress. 
+My HOA president has been involved, and the city even issued a permit expiration warning due to the lack of activity. 
+However, Alco has remained unresponsive. 
+This disturbing lack of communication, despite the looming threat of hurricane season, 
+reveals a disregard for customer commitments once the company is paid in full.
 
-### Attempted Contact With Luis Alvarez
-After the warning from the city, I sent an email to everyone I had been in contact with at Alco, including Luis Alvarez, 
-the founder and Managing Director, but received no response. 
-The Managing Director, Luis Alverez, is active online. 
-In his [LinkedIn profile](https://www.linkedin.com/in/luis-alvarez-0a7a7b57/), he claims expertise with SEO, 
-a strategy companies use to optimize search engine results, sometimes presenting a more favorable image than reality. 
-There is also a [Power100 Business Profile](https://power100.io/luis-alvarez-ceo-lander/) of Luis Alvarez where they emphasize his SEO expertise.
-
-### Public Persona vs Customer Experiences
+## Luis Alvarez: The Man Behind the Public Persona
 ![Luis Alvarez, Managing Director of Alco](https://media.licdn.com/dms/image/v2/D4D22AQEV2r4zV0s9NA/feedshare-shrink_800/feedshare-shrink_800/0/1701800543657?e=1729123200&v=beta&t=H78uLZZLG3BErTI-GbWMLRAxblVokjYJiSD23gis08Y)
 
-Luis Alvarez also maintains a profile on [Twitter (X)](https://x.com/la7483), and is listed on 
-the [Alco management team](https://www.alcoimpact.com/our-team/) page on their website, as well as having his own 
-company profile here: [Luis Alvarez Profile](https://www.alcoimpact.com/our-team/detail/?employee=luis-alvarez).
+Luis Alvarez, the Managing Director of Alco Windows and Doors, has an active online presence, painting a picture of a successful business leader. 
+He promotes his company through platforms like LinkedIn, where his [profile](https://www.linkedin.com/in/luis-alvarez-0a7a7b57/) emphasizes 
+his expertise in SEO strategies often used to present an artificially favorable image online. 
+His [Power100 Business Profile](https://power100.io/luis-alvarez-ceo-lander/) also highlights his achievements and his expertise in SEO. 
+However, the public image crafted by Alvarez sharply contrasts with my experience, where unresponsiveness and failure to deliver have been the norm.
 
-Luis Alvarez was [honored by the Doral Chamber of Commerce](https://www.doralchamber.org/luis-alvarez-alco-windows-and-doors-honored/) in 2022. 
-In contrast to his public persona, Alco Windows and Doors has accumulated 44 complaints over the past three years, 
-with 31 filed in just the last year. Most complaints involve delays in installation, 
-unresponsive customer service, and failure to deliver products after full payment. 
-This can be found on the [Better Business Bureau Page For Complaints against Alco](https://www.bbb.org/us/fl/doral/profile/impact-windows/alco-windows-and-doors-llc-0633-90414965/complaints). 
-The situation is so critical that they have [lost their Better Business Bureau accreditation](https://www.bbb.org/us/fl/doral/profile/impact-windows/alco-windows-and-doors-llc-0633-90414965).
+## Alco's Public Presence: Transparency and Accountability
+In addition to my personal experience, it is important to highlight the public profiles and credentials of the individuals responsible for Alco Windows and Doors. 
+The founder and Managing Director, Luis Alvarez, has built a strong online presence, positioning himself as a successful business leader.
+ He is active on multiple platforms, which appear to be part of an effort to shape public perception.
 
-### Contradictory Online Reviews
-On their website, they prominently display the positive Google reviews they have received, 
-but if you visit [their Google Maps Page](https://www.google.com/maps/place/Alco+Windows+and+Doors/@25.786464,-80.343327,16z/data=!4m14!1m7!3m6!1s0x88d9b8e4d8421cd1:0x65841e77fdc48647!2sAlco+Windows+and+Doors!8m2!3d25.786464!4d-80.3407467!16s%2Fg%2F11dxdkybdg!3m5!1s0x88d9b8e4d8421cd1:0x65841e77fdc48647!8m2!3d25.786464!4d-80.3407467!16s%2Fg%2F11dxdkybdg?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D), 
-you'll find many recent negative reviews, which are overshadowed by older positive reviews.
+- **Luis Alvarez, Founder and Managing Director**  
+[Power100 Business Profile](https://power100.io/luis-alvarez-ceo-lander/)  
+[Doral Chamber of Commerce Profile](https://www.doralchamber.org/luis-alvarez-alco-windows-and-doors-honored/)   
+[LinkedIn Profile](https://www.linkedin.com/in/luis-alvarez-0a7a7b57/)   
+[Twitter (X) Profile](https://x.com/la7483)   
 
-Alco is based in Doral according to their website's [Contact Us](https://www.alcoimpact.com/contact-us/) page.
+- **Alco Windows and Doors Contact Information**  
+[Alco Management Team](https://www.alcoimpact.com/our-team/)   
+[Luis Alvarez Company Profile](https://www.alcoimpact.com/our-team/detail/?employee=luis-alvarez).  
 ~~~
-1421 NW 89th Ct
-Doral, FL 33172
-(786) 550-2380
-Contractor License #CGC1526312
+1421 NW 89th Ct  
+Doral, FL 33172  
+[Alco Contact Page](https://www.alcoimpact.com/contact-us/)  
+(786) 550-2380  
+Contractor License: #CGC1526312
 ~~~
 
+This public presence raises an important question: how does a company that presents itself so favorably online have such a stark contrast between 
+its public image and the real-world experiences of its customers? 
+Luis Alvarez’s apparent expertise in SEO might explain how the company maintains a positive online presence despite the troubling complaints on sites like 
+the [Better Business Bureau](https://www.bbb.org/us/fl/doral/profile/impact-windows/alco-windows-and-doors-llc-0633-90414965).
 
 
-### My Experience Mirrors That of Other Customers
+## The Deception of Reviews and BBB Complaints
+Alco prominently displays its positive Google reviews on its website, suggesting a company committed to customer satisfaction. 
+However, a deeper look into more recent reviews tells a different story. 
+Their [Google Maps page](https://www.google.com/maps/place/Alco+Windows+and+Doors/@25.786464,-80.343327,16z/data=!4m14!1m7!3m6!1s0x88d9b8e4d8421cd1:0x65841e77fdc48647!2sAlco+Windows+and+Doors!8m2!3d25.786464!4d-80.3407467!16s%2Fg%2F11dxdkybdg!3m5!1s0x88d9b8e4d8421cd1:0x65841e77fdc48647!8m2!3d25.786464!4d-80.3407467!16s%2Fg%2F11dxdkybdg?entry=ttu&g_ep=EgoyMDI0MDkxMS4wIKXMDSoASAFQAw%3D%3D) 
+reveals a stark contrast, with recent negative reviews being overshadowed by older, more favorable ones.
 
-It appears my experience with Alco Windows and Doors is not an isolated case. 
-In July 2024, [NBC Miami reported](https://www.nbcmiami.com/responds/after-months-of-waiting-man-turns-to-nbc6-responds-for-help-with-home-improvement-project/3365036/) 
-on a customer named Joseph Johnson who faced remarkably similar issues.
+On top of this, Alco has accumulated 44 complaints with the [Better Business Bureau (BBB)](https://www.bbb.org/us/fl/doral/profile/impact-windows/alco-windows-and-doors-llc-0633-90414965/complaints) 
+over the past three years—31 of them in just the last year—largely citing delays, poor customer service, and failure to deliver. 
+The situation became so egregious that they eventually [lost their BBB accreditation](https://www.bbb.org/us/fl/doral/profile/impact-windows/alco-windows-and-doors-llc-0633-90414965).
 
-After moving to South Florida, Joseph and his wife prioritized making their home hurricane-ready.
-On August 22, 2022, they signed a contract with Alco to replace six windows and two doors, financing the $25,898 project through a third party—just like I did. 
-Joseph began making payments immediately, with Alco assuring him that the project would be completed before the start of the hurricane season.
+## Parallels in Customer Experiences: Joseph Johnson’s Story
+I am not alone in my frustrations. 
+A story reported by [NBC Miami](https://www.nbcmiami.com/responds/after-months-of-waiting-man-turns-to-nbc6-responds-for-help-with-home-improvement-project/3365036/) 
+in July 2024 describes how Joseph Johnson, another Alco customer, faced nearly identical issues. 
+Like me, Joseph signed a contract with Alco to make his home hurricane-ready and financed the project through a third party. 
+He too began making payments immediately, while Alco’s communication dwindled.
 
-However, after signing, communication from Alco dwindled. 
-Joseph repeatedly contacted them to inquire about the project's status but received little information. 
-His HOA approved the project promptly in January, but Alco still did not proceed. 
-Frustrated by the delays and continued loan payments for undelivered services, Joseph filed complaints with state authorities and reached out to NBC6 Responds.
+His HOA approved the project in January 2023, but Alco did not proceed. 
+Months passed with no progress, and Joseph filed complaints with state authorities. 
+It wasn't until NBC6 got involved that Alco finally applied for the permits. 
+Joseph ultimately canceled the contract and requested a refund, receiving no explanation for the delays.
 
-An attorney for Alco eventually contacted Joseph, citing delays in obtaining HOA approval as the reason for the holdup—despite records showing the HOA had approved the project months earlier. 
-It wasn't until late June, over six months after receiving HOA approval and after NBC6 got involved, that Alco applied for the necessary permits. 
-Feeling distrustful, Joseph decided to cancel the contract and requested a full refund. 
-Alco agreed to refund him but did not address why the delays occurred.
+## A Repeated Pattern of Delay and Abuse
+Just as Joseph experienced, my situation with Alco Windows and Doors follows the same troubling pattern:
+- **Arranged Financing Through a Third Party**: Both of us began making payments immediately, despite no work being completed.
+- **Prompt HOA Approval**: Both of our HOAs approved the projects promptly, but Alco delayed.
+- **Communication Breakdown**: After receiving payment, Alco became unresponsive.
+- **Project Delays**: Despite having permits, Alco did not move forward with the installations.
+- **Financial Burden**: Both of us faced financial strain, paying for undelivered services during critical times like hurricane season.
 
-### Parallels to My Situation
+These cases—and others reflected in BBB complaints—indicate a pattern of behavior that exploits customers financially and emotionally.
 
-Much like Joseph, I:
-- **Arranged Financing Through a Third Party**: We started making payments immediately.
-- **Received Prompt HOA Approval**: Our HOAs were cooperative, contrary to Alco's claims.
-- **Experienced Communication Issues**: Alco became unresponsive after receiving payment.
-- **Faced Delays**: Despite permits being granted, Alco did not proceed with installation.
-- **Endured Financial Strain**: We paid for undelivered services during critical times.
+## What Comes Next: Holding Alco Accountable
+The stories of customers like Joseph Johnson and myself suggest a larger systemic issue with Alco Windows and Doors. 
+Their reliance on SEO and positive reviews to present a trustworthy front is contradicted by numerous complaints and failures. 
+With hurricane season already here, it’s more critical than ever to hold companies like Alco accountable for their actions, both legally and publicly.
 
-These similarities suggest a concerning pattern with Alco Windows and Doors.
-
-### NBC Interview
-Here is the full interview with Joseph in NBC: 
-
-
-
-
-
+## NBC Interview with Joseph Johnson
+To see the full interview with Joseph Johnson, whose experience mirrors mine, read and watch the NBC Miami interview embedded below:
 
 `;
 
-
-// custom renderer for mardkown links
-const renderer = new marked.Renderer();
-  renderer.link = (href, title, text) => {
-    const url = href.href || href.raw || href || "#";
-    const displayText = text || href.text || "Link";
-    
-    return `<a href="${url}" title="${title || ''}" class="text-blue-500 underline font-bold hover:text-blue-700">${displayText}</a>`;
-  };
-  
-
-
 export default  function Story(){
-  const htmlContent = marked(markdownContent);//, {renderer});
+  const htmlContent = marked(markdownContent);
   return <div class="prose prose-lg prose-blue hover:text-gray-600 visited:text-gray-800" dangerouslySetInnerHTML={{ __html: htmlContent }} />
 }  
  
