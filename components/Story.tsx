@@ -107,6 +107,10 @@ The stories of customers like Joseph Johnson and myself suggest a larger systemi
 Their reliance on SEO and positive reviews to present a trustworthy front is contradicted by numerous complaints and failures. 
 With hurricane season already here, it’s more critical than ever to hold companies like Alco accountable for their actions, both legally and publicly.
 
+## Talk to AI About Alco
+I used the publicly available information to train an AI bot to chat with people and steer them away from Alco when choosing a windows company. 
+[You can chat with the AI Bot here](https://chatgpt.com/g/g-BikkgpzOQ-beware-of-alco-windows-gpt)
+
 ## NBC Interview with Joseph Johnson
 To see the full interview with Joseph Johnson, whose experience mirrors mine, read and watch the NBC Miami interview embedded below:
 
