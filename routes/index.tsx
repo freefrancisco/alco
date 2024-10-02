@@ -38,30 +38,16 @@ export default function Home() {
 <div class="min-h-screen bg-gray-100">
 <header class="bg-gray-800 text-white py-4">
   <div class="max-w-screen-md mx-auto px-4">
-    <h1 class="text-center text-4xl font-bold">Beware of Alco Windows And Doors</h1>
-    <h2 class="text-center text-2xl">Owned by Luis Alvarez</h2>
-    {/* <h2 class="text-center">They sell hurricane impact windows in Miami area, took payment in full over a year ago, they have not delivered, and they have stopped responding. There are multiple complaints against them in the BBB. </h2> */}
+    <h1 class="text-center text-4xl font-bold">Impact</h1>
   </div>
 </header>
 <main class="py-8 px-4">
   <div class="max-w-screen-md mx-auto">
-    <Story/>
-    <iframe
-      src="https://www.nbcmiami.com/responds/after-months-of-waiting-man-turns-to-nbc6-responds-for-help-with-home-improvement-project/3365036/"
-      class="
-        w-full 
-        h-[65vh] sm:h-[75vh] md:h-[85vh] lg:h-[95vh] xl:h-[100vh]
-      "
-      style="border:0;"
-      allowfullscreen
-      loading="lazy"
-      referrerpolicy="no-referrer-when-downgrade"
-    ></iframe>
   </div>
 </main>
 <footer class="bg-gray-800 text-white py-4 text-center">
   <div class="max-w-screen-md mx-auto px-4 text-center">
-    <p>Beware of Alco Windows And Doors</p>
+    <p>Impact</p>
   </div>
 </footer>
 </div>
